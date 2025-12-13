@@ -1,6 +1,6 @@
 # 💫 About Me:
 full stack C#
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=phoave&label=Profile%20views&color=0e75b6&style=flat" alt="phoave" /> </p>
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/neris_phoave) 
@@ -12,10 +12,5 @@ full stack C#
 ![](https://nirzak-streak-stats.vercel.app/?user=phoave&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=phoave&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=phoave&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
----
 [![](https://visitcount.itsvg.in/api?id=phoave&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
